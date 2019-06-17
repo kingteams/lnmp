@@ -1,8 +1,9 @@
 # screen install
-Centos ：yum install screen Ubuntu ：apt-get install screen
+Centos ：yum install screen <br>
+Ubuntu ：apt-get install screen
 
 # wget install
-Centos：yum install wget
+Centos：yum install wget <br>
 Ubuntu ：apt-get install wget
 
 # lnmp install

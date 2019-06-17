@@ -1,7 +1,6 @@
-# lnmp
-
 # screen install
 Centos ：yum install screen Ubuntu ：apt-get install screen
+
 # wget install
 Centos：yum install wget
 Ubuntu ：apt-get install wget
